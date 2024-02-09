@@ -191,6 +191,8 @@ https://github.com/SergeFocus/git-flow
 
 ### Итак, какая система контроля версий подойдет для вашего проекта?
 
+Конечно же Git
+
 # Система одновременных версий (CVS)
 
 # Apache Subversion (SVN)
